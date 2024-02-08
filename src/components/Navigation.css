@@ -1,0 +1,8 @@
+.nav {
+  background-color: blueviolet;
+  text-align: center;
+  border: solid white 10px;
+  grid-column: 3/4;
+  grid-row: 4/4;
+  clip-path: polygon(60% 29%, 100% 18%, 100% 100%, 0 96%, 11% 25%);
+}
